@@ -1,40 +1,30 @@
 {
-  "name": "Copyright bot",
+  "name": "bot",
   "description": "Your bot description",
-"keywords": [
-    "copyright",
-    "bot",
-    "codex"
-  ],
   "repository": "https://github.com/CoderXVenom/Copyright",
-  "logo": "https://telegra.ph/file/c4c411b7968c06b606395.jpg",
-  
-  "env": {
-    "BOT_TOKEN": {
-      "description": "BOT TOKEN",  
-      "value": ""
-      "required": true
-    },
-    "SUPPORT_GROUP_LINK": {
-      "description": "https://t.me/COPYRIGHT_PROTECTOR",
-       "value": "COPYRIGHT_PROTECTOR"
-      "required": true
-    },
-    "LOGS_GROUP_LINK": {
-      "description": "https://t.me/COPYRIGHT_PROTECTOR",
-       "value": "COPYRIGHT_PROTECTOR"
-      "required": true
-    },
-    "OWNER_ID": {
-      "description": "6201525463",
-       "value": "6201525463",
-      "required": true
-    }
-  },
-"addons": [],
+  "image": "heroku/python",
+  "addons": [],
   "buildpacks": [
     {
       "url": "heroku/python"
     }
-  ]
+  ],
+  "env": {
+    "BOT_TOKEN": {
+      "description": "TOKEN ID ",
+      "required": true
+    },
+    "SUPPORT_GROUP_LINK": {
+      "description": "https://t.me/COPYRIGHT_PROTECTOR/",
+      "required": true
+    },
+    "LOGS_GROUP_LINK": {
+      "description": "https://t.me/COPYRIGHT_PROTECTOR",
+      "required": true
+    },
+    "OWNER_ID": {
+      "description": "OWNER ID ",
+      "required": true
+    }
+  }
 }
