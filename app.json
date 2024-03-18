@@ -1,7 +1,7 @@
 {
   "name": "Copyright bot",
   "description": "Your bot description",
-  "repository": "https://github.com/MrH4CK3474/BAD-COPYRIGHT-",
+  "repository": "https://github.com/CoderXVenom/Copyright",
   "image": "heroku/python",
   "addons": [],
   "buildpacks": [
