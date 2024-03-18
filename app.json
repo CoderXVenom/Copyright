@@ -3,7 +3,14 @@
   "description": "Your bot description",
   "repository": "https://github.com/CoderXVenom/Copyright",
   "image": "heroku/python",
-  "addons": [],
+  "addons": [ 
+    {
+      "plan": "heroku-postgresql",
+      "options": {
+        "version": "15"
+      }
+    }
+],
   "buildpacks": [
     {
       "url": "heroku/python"
