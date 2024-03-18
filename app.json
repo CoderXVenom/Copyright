@@ -11,7 +11,7 @@
   ],
   "env": {
     "BOT_TOKEN": {
-      "description": "7167596392:AAHCoW0eGmdMIrVMULIQdqDqv3JOrlpCvFE",
+      "description": "7167596392:AAHCoW0eGmdMIrVMUqDqv3JOrlpCvFE",
       "required": true
     },
     "SUPPORT_GROUP_LINK": {
