@@ -1,6 +1,11 @@
 {
   "name": "Copyright bot",
   "description": "Your bot description",
+"keywords": [
+    "copyright",
+    "bot",
+    "codex"
+  ],
   "repository": "https://github.com/CoderXVenom/Copyright",
   "logo": "https://telegra.ph/file/c4c411b7968c06b606395.jpg",
   
@@ -25,7 +30,7 @@
        "value": "6201525463",
       "required": true
     }
-  }
+  },
 "addons": [ 
     {
       "plan": "heroku-postgresql",
