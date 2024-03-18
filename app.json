@@ -15,11 +15,11 @@
       "required": true
     },
     "SUPPORT_GROUP_LINK": {
-      "description": "https://t.me/CHATTING_2024",
+      "description": "https://t.me/COPYRIGHT_PROTECTOR",
       "required": true
     },
     "LOGS_GROUP_LINK": {
-      "description": "https://t.me/CHATTING_2024",
+      "description": "https://t.me/COPYRIGHT_PROTECTOR",
       "required": true
     },
     "OWNER_ID": {
