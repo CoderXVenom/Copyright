@@ -16,6 +16,7 @@
       "url": "heroku/python"
     }
   ],
+  "stack": "container"
   "env": {
     "BOT_TOKEN": {
       "description": "TOKEN ID ",
