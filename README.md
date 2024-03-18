@@ -13,7 +13,7 @@ This Telegram bot helps protect your group from copyright infringement by automa
 
 You can deploy this bot to Heroku with one click using the button below:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PRADHAN474/COPYRIGHT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrH4CK3474/BAD-COPYRIGHT-)
 
 Before deploying, make sure you have the following information ready:
 - Telegram bot token
@@ -33,15 +33,6 @@ Once deployed, set these environment variables in your Heroku app:
 2. Start the bot by sending `/start`.
 3. The bot will automatically start monitoring and protecting your group from copyright infringement.
 
-## Support Group
-
-Join our Telegram support group for help and discussions: [@BWANDARLOK](https://t.me/BWANDARLOK)
-
-## Contributing
-
-Feel free to contribute to this project by forking the repository, making changes, and submitting pull requests.
-
-If you encounter any issues or have suggestions for improvement, please open an issue on GitHub.
 
 ## License
 
