@@ -19,7 +19,6 @@
      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
     }
   ],
-  "stack": "container"
   "env": {
     "BOT_TOKEN": {
       "description": "TOKEN ID ",
