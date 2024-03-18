@@ -31,14 +31,7 @@
       "required": true
     }
   },
-"addons": [ 
-    {
-      "plan": "heroku-postgresql",
-      "options": {
-        "version": "15"
-      }
-    }
-],
+"addons": [],
   "buildpacks": [
     {
       "url": "heroku/python"
