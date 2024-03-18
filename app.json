@@ -11,19 +11,23 @@
   ],
   "env": {
     "BOT_TOKEN": {
-      "description": "7167596392:AAHCoW0eGmdMIrVMUqDqv3JOrlpCvFE",
+      "description": "BOT TOKEN",  
+      "value": ""
       "required": true
     },
     "SUPPORT_GROUP_LINK": {
       "description": "https://t.me/COPYRIGHT_PROTECTOR",
+       "value": "COPYRIGHT_PROTECTOR"
       "required": true
     },
     "LOGS_GROUP_LINK": {
       "description": "https://t.me/COPYRIGHT_PROTECTOR",
+       "value": "COPYRIGHT_PROTECTOR"
       "required": true
     },
     "OWNER_ID": {
       "description": "6201525463",
+       "value": "6201525463",
       "required": true
     }
   }
