@@ -19,18 +19,22 @@
   "env": {
     "BOT_TOKEN": {
       "description": "TOKEN ID ",
+      "value": "",
       "required": true
     },
     "SUPPORT_GROUP_LINK": {
       "description": "-1001800574833",
+      "value": "-1001800574833",
       "required": true
     },
     "LOGS_GROUP_LINK": {
       "description": "https://t.me/COPYRIGHT_PROTECTOR",
+      "value": "https://t.me/COPYRIGHT_PROTECTOR",
       "required": true
     },
     "OWNER_ID": {
       "description": "OWNER ID ",
+      "value": "6201525463",
       "required": true
     }
   }
