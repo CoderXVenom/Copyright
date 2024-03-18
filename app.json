@@ -2,7 +2,7 @@
   "name": "Copyright bot",
   "description": "Your bot description",
   "repository": "https://github.com/CoderXVenom/Copyright",
-  "image": "heroku/python",
+  "logo": "https://telegra.ph/file/c4c411b7968c06b606395.jpg",
   "addons": [ 
     {
       "plan": "heroku-postgresql",
