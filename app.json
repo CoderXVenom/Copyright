@@ -1,5 +1,5 @@
 {
-  "name": "bot",
+  "name": "Copyright bot",
   "description": "Your bot description",
   "repository": "https://github.com/MrH4CK3474/BAD-COPYRIGHT-",
   "image": "heroku/python",
