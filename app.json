@@ -7,7 +7,7 @@
       {
       "plan": "heroku-postgresql",
       "options": {
-        "version": "15"
+        "version": "22"
       }
     }
 ],
@@ -22,7 +22,7 @@
       "required": true
     },
     "SUPPORT_GROUP_LINK": {
-      "description": "https://t.me/COPYRIGHT_PROTECTOR/",
+      "description": "-1001800574833",
       "required": true
     },
     "LOGS_GROUP_LINK": {
